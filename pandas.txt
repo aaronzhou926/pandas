@@ -1,0 +1,10 @@
+git status = comparing doc to last update.
+
+# *是all changed files in current directory. / or add change file one by one by its name.
+git add * = check changes that were made
+
+#commit the changes and give description
+git commit -m "comment" 
+
+
+git push = push the changes to GitHub	
